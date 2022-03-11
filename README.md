@@ -1,6 +1,6 @@
 # graficos
 
-## Visualização e estilização de gráficos com Python
+## Construção de visualizações de dados usando a linguagem de programação Python e a biblioteca Pyplot
 
 ### Tecnologias Utilizadas
 #### Python 3.10
